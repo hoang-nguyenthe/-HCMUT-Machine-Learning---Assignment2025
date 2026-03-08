@@ -15,7 +15,7 @@
 | **Contact** | lantv@hcmut.edu.vn |
 | **Institution** | Ho Chi Minh City University of Technology – VNU-HCM |
 | **Department** | Computer Science |
-| **Semester** | Semester I, Academic Year 2025–2026 |
+| **Semester** | Semester 252, Academic Year 2025–2026 |
 
 ---
 
@@ -208,9 +208,6 @@ pip install h5py tqdm
 | Progress Report #2 | 22/03/2026 |
 | Progress Report #3 | 12/04/2026 |
 | Progress Report #4 | 26/04/2026 |
-| **Final submission deadline** | **10/05/2026 before 12:00 PM** |
-
-> Late submissions will receive a score of **0**.
 
 ---
 
